@@ -1,0 +1,10 @@
+Mi primer Manual
+
+mkdir --> crear directorio
+ls --> listar directorio
+nano --> editor de texo en linux
+cd --> cambiar directorio
+cd.. -->salir de directorio
+cat -->visualizar contenido de archivo
+rm -R -->eliminar archivo
+touch --Z crear un archivo o fichero
