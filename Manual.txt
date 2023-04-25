@@ -7,4 +7,13 @@ cd --> cambiar directorio
 cd.. -->salir de directorio
 cat -->visualizar contenido de archivo
 rm -R -->eliminar archivo
-touch --Z crear un archivo o fichero
+touch --> crear un archivo o fichero
+
+Mis comandos Git
+git status --> ver estado de la estación
+git log --> muestra los registros historicos
+git add . --> agrega todos lo archivos a la estacion
+git commit -m "Primer viaje" -->crea un registro historico del archivo en la estacion
+git push origin main --> envia los archivos a la nube o github
+git pull origin main --> actualiza la estacion de trabajo
+
